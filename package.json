@@ -1,6 +1,6 @@
 {
-  "name": "responsive-react-website",
-  "home": "https://MukulGaur.github.io/Responsive-React-Website",
+  "name": "reactwebsite",
+  "home": "https://MukulGaur.github.io/reactwebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
