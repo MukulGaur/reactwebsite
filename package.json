@@ -1,6 +1,6 @@
 {
-  "name": "reactwebsite",
   "home": "https://MukulGaur.github.io/reactwebsite",
+  "name": "reactwebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
